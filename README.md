@@ -1,0 +1,1 @@
+A Tampermonkey script for the BRTA website that autofills password fields during account creation. It copies the value from a hidden input field to the password and confirm password fields, saving time and reducing errors. Ideal for users who want a faster and more streamlined registration process.
